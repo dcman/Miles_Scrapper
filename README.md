@@ -4,7 +4,7 @@ _Description: Scrips used to collect data from a variety of frequent flyer and o
 
 ## Project Setup
 
-_All scrips require the mechanize and cacert gems to be installed  _ 
+_All scrips require the mechanize and cacert gems to be installed_ 
 
 1. _In terminal or console type "sudo gem install mechanize"_
 2. _In terminal or console type "sudo gem install cacert"_
